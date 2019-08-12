@@ -1,5 +1,5 @@
 # Good Stuff Of Credit Scoring
-Selected Collection of Credit Scoring Code
+Selected Collection of Credit Scoring Code.
 
 - [ayhandis/creditR](https://github.com/ayhandis/creditR)
 
