@@ -40,6 +40,4 @@ Selected Collection of Credit Scoring Code.
    
    `pip install git+git://github.com/shichenxie/scorecardpy.git`
    
-   - Documentation
-   
-   http://shichen.name/scorecard/
+   - [Documentation](http://shichen.name/scorecard/)
