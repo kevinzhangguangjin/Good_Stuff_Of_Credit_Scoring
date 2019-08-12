@@ -27,3 +27,19 @@ Selected Collection of Credit Scoring Code.
 - [How to apply Logistic Regression using Excel](https://blog.learningtree.com/how-to-apply-logistic-regression-using-excel/)
    
    A step by step Excel tutorial to implement Logistic Regression
+   
+- [ShichenXie/scorecardpy](https://github.com/ShichenXie/scorecardpy)
+
+   Scorecard Development in python, 评分卡
+   
+   - Installation
+   
+   `pip install scorecardpy`
+   
+   or
+   
+   `pip install git+git://github.com/shichenxie/scorecardpy.git`
+   
+   - Documentation
+   
+   http://shichen.name/scorecard/
