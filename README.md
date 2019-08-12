@@ -23,3 +23,7 @@ Selected Collection of Credit Scoring Code.
   Information Value (IV) and Weight of Evidence (WOE). 
 
    language: SAS
+   
+- [How to apply Logistic Regression using Excel](https://blog.learningtree.com/how-to-apply-logistic-regression-using-excel/)
+   
+   A step by step Excel tutorial to implement Logistic Regression
