@@ -48,7 +48,11 @@ Selected Collection of Credit Scoring Code.
 - [taenggu0309/Scorecard--Function](https://github.com/taenggu0309/Scorecard--Function)
    
    评分卡模型实现函数模块
+   
+   language: Python
 
 - [yanx27/Scorecard-Modeling](https://github.com/yanx27/Scorecard-Modeling)
 
    评分卡模型建模流程
+   
+   language: Python & R
