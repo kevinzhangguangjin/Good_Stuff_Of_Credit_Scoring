@@ -58,3 +58,5 @@ Selected Collection of Credit Scoring Code.
    language: Python & R
 
 - [评分卡模型的评估方法论](https://github.com/taenggu0309/Scorecard--Assessment/blob/master/%E8%AF%84%E5%88%86%E5%8D%A1%E6%A8%A1%E5%9E%8B%E7%9A%84%E8%AF%84%E4%BC%B0%E6%96%B9%E6%B3%95%E8%AE%BA.pdf)
+
+   PDF Document
