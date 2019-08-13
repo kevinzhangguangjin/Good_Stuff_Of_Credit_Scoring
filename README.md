@@ -28,16 +28,17 @@ Selected Collection of Credit Scoring Code.
    
    A step by step Excel tutorial to implement Logistic Regression
    
-- [ShichenXie/scorecardpy](https://github.com/ShichenXie/scorecardpy)
+- [ShichenXie/scorecard](https://github.com/ShichenXie/scorecard)
 
-   Scorecard Development in python, 评分卡
+   Scorecard Development in R, 评分卡
    
    - Installation
    
-   `pip install scorecardpy`
+   If you use Anaconda on MacOS: 
    
-   or
-   
-   `pip install git+git://github.com/shichenxie/scorecardpy.git`
+   ```
+   conda install -c conda-forge r-devtools
+   conda install -c conda-forge  r-foreach r-openxlsx r-digest r-MASS r-rlang r-tibble r-iterators r-Rcpp r-zip r-nlme r-pillar r-vctrs r-zeallot
+   ```
    
    - [Documentation](http://shichen.name/scorecard/)
