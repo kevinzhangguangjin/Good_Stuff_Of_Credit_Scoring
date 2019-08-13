@@ -38,7 +38,9 @@ Selected Collection of Credit Scoring Code.
    
    ```
    conda install -c conda-forge r-devtools
-   conda install -c conda-forge  r-foreach r-openxlsx r-digest r-MASS r-rlang r-tibble r-iterators r-Rcpp r-zip r-nlme r-pillar r-vctrs r-zeallot
+   conda install -c conda-forge r-foreach r-openxlsx r-digest r-MASS r-rlang r-tibble r-iterators r-Rcpp r-zip r-nlme r-pillar r-vctrs r-zeallot
    ```
    
    - [Documentation](http://shichen.name/scorecard/)
+   
+   - [Code Demo in Jupyter Notebook](./code/R_scorecard.ipynb)
